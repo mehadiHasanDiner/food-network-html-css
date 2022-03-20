@@ -56,3 +56,22 @@ h3{
 .one-third img{
     width: 100%;
 }
+
+.recipies-items{
+    text-align: center;
+    margin: 0 200px;
+}
+
+.fourth-section{
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    box-shadow: 0px 5px 15px 15px #e0e0e0;
+    border-radius: 20px;
+}
+
+.fourth-section-div{
+    width: 30%;
+    text-align: center;
+}
