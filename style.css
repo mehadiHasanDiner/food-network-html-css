@@ -7,6 +7,11 @@ h1{
     font-size: 50px;
 }
 
+h3{
+    font-size: 25px;
+    color: rgb(95, 95, 95);
+}
+
 .flex-content{
     display: flex;
     padding: 5%;
@@ -16,10 +21,7 @@ h1{
 .half-width{
     width: 50%;
 }
-.flex-content img{
-    width: 100%;
 
-}
 
 .button-orange{
     padding: 15px 30px;
@@ -37,4 +39,20 @@ h1{
 .middle-bg{
     background-image: url(images/7.png);
     background-repeat: no-repeat;
+}
+
+.half-image img{
+    width: 55%;
+}
+
+.one-third{
+    width: 30%;
+    margin-right: 5%;
+    box-shadow: 0px 5px 15px 15px #e0e0e0;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.one-third img{
+    width: 100%;
 }
